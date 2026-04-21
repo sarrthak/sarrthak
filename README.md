@@ -26,7 +26,7 @@
 - 🤖 Passionate about **AI/ML (Computer Vision)** and **DevOps** — love the intersection of intelligent systems and reliable infrastructure
 - 🏊 Work at **IU Diving** — I get a front-row seat to athletes (in way better shape than me) pulling off incredible dives
 - 🛠️ Currently building **[noteboard.ai](https://github.com/sarrthak/noteboard.ai-public)** — an AI-native project management platform that turns voice requirements into architecture, code, and deployed software
-- 🏆 **Cheng Wu Innovation Challenge** awardee at IU Luddy School
+- 🏆 **Cheng Wu Innovation Challenge** Finalist at IU Luddy School
 
 ---
 
