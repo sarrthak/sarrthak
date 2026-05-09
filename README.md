@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sarrthak.tech"><img src="https://img.shields.io/badge/🌐-sarrthak.tech-EFD30B?style=for-the-badge&labelColor=1A1A19" alt="Website" />Webpage</a>
+  <a href="https://sarrthak.tech"><img src="https://img.shields.io/badge/🌐-sarrthak.tech-EFD30B?style=for-the-badge&labelColor=1A1A19" alt="Website" /></a>
   <a href="https://linkedin.com/in/tripsarrthak28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/orangeboy1017"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
