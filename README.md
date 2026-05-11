@@ -127,12 +127,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarrthak&show_icons=true&theme=github_dark&hide_border=true&bg_color=1A1A19&title_color=EFD30B&icon_color=EFD30B&text_color=F9F8F4&ring_color=EFD30B" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarrthak&theme=github-dark-blue&hide_border=true&background=1A1A19&ring=EFD30B&fire=EFD30B&currStreakLabel=EFD30B&sideLabels=F9F8F4&dates=F9F8F4" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-liard-seven-29.vercel.app/api?username=sarrthak&show_icons=true&theme=github_dark&hide_border=true&bg_color=1A1A19&title_color=EFD30B&icon_color=EFD30B&text_color=F9F8F4&ring_color=EFD30B" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-liard-seven-29.vercel.app?user=sarrthak&theme=github-dark-blue&hide_border=true&background=1A1A19&ring=EFD30B&fire=EFD30B&currStreakLabel=EFD30B&sideLabels=F9F8F4&dates=F9F8F4" alt="GitHub Streak" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrthak&layout=compact&theme=github_dark&hide_border=true&bg_color=1A1A19&title_color=EFD30B&text_color=F9F8F4" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sarrthak.vercel.app/api/top-langs/?username=sarrthak&layout=compact&theme=github_dark&hide_border=true&bg_color=1A1A19&title_color=EFD30B&text_color=F9F8F4" alt="Top Languages" width="48%" />
 </p>
 
 ---
