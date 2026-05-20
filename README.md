@@ -44,7 +44,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">
-        <a href="https://github.com/sarrthak/noteboard.ai-public">noteboard.ai</a>
+        <a href="https://github.com/sarrthak/noteboard.ai">noteboard.ai</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
